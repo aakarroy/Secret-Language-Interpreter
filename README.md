@@ -8,5 +8,5 @@ Welcome to the Secret Language Interpreter! This tool is designed to help you de
 
 **Customizable**: Modify the encoding and decoding rules to fit your own secret language specifications.
 
-**User-friendly**: Simple and intuitive interface for ease of use.
+**User-friendly**: Simple and intuitive interface for ease of use. Lets's Go!
 
